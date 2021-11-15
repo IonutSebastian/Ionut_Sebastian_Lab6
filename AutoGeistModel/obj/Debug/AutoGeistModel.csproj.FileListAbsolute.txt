@@ -1,0 +1,11 @@
+C:\Users\KyleYG\source\repos\Ionut_Sebastian_Lab5\AutoGeistModel\bin\Debug\AutoGeistModel.dll.config
+C:\Users\KyleYG\source\repos\Ionut_Sebastian_Lab5\AutoGeistModel\bin\Debug\AutoGeistModel.dll
+C:\Users\KyleYG\source\repos\Ionut_Sebastian_Lab5\AutoGeistModel\bin\Debug\AutoGeistModel.pdb
+C:\Users\KyleYG\source\repos\Ionut_Sebastian_Lab5\AutoGeistModel\bin\Debug\EntityFramework.dll
+C:\Users\KyleYG\source\repos\Ionut_Sebastian_Lab5\AutoGeistModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KyleYG\source\repos\Ionut_Sebastian_Lab5\AutoGeistModel\bin\Debug\EntityFramework.xml
+C:\Users\KyleYG\source\repos\Ionut_Sebastian_Lab5\AutoGeistModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KyleYG\source\repos\Ionut_Sebastian_Lab5\AutoGeistModel\obj\Debug\AutoGeistModel.csproj.AssemblyReference.cache
+C:\Users\KyleYG\source\repos\Ionut_Sebastian_Lab5\AutoGeistModel\obj\Debug\AutoGeistModel.csproj.CoreCompileInputs.cache
+C:\Users\KyleYG\source\repos\Ionut_Sebastian_Lab5\AutoGeistModel\obj\Debug\AutoGeistModel.dll
+C:\Users\KyleYG\source\repos\Ionut_Sebastian_Lab5\AutoGeistModel\obj\Debug\AutoGeistModel.pdb
